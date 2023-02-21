@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "900045376911",
+    "project_id": "ykismob",
+    "storage_bucket": "ykismob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900045376911:android:999a5dbb0eb5692bc48ffa",
+        "android_client_info": {
+          "package_name": "com.ykis.ykismob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900045376911-6grpv39vkd9ifv6jc3sh719alnc6c2qm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ykis.ykismob",
+            "certificate_hash": "5014772fc7dc7929ad448c12474d5e1897575e27"
+          }
+        },
+        {
+          "client_id": "900045376911-tmarfejlh9n2i0fkrkha78pikjej3lbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyqFznc79La8fzAk2mabgwrSte1iTHDNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900045376911-tmarfejlh9n2i0fkrkha78pikjej3lbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
